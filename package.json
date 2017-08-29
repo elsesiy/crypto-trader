@@ -1,0 +1,32 @@
+{
+  "name": "crypto-trader",
+  "version": "1.0.0",
+  "description": "Cryptocurrency investing using Dollar Cost Averaging (not limited to dollar)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elsesiy/crypto-trader.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "ethereum",
+    "cryptocurrency",
+    "trading",
+    "dollar",
+    "cost",
+    "averaging"
+  ],
+  "author": "Jonas-Taha El Sesiy <info@elsesiy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elsesiy/crypto-trader/issues"
+  },
+  "homepage": "https://github.com/elsesiy/crypto-trader#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "kraken-api": "^1.0.0"
+  }
+}
