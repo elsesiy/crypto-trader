@@ -51,3 +51,6 @@ Run the script via `node index.js` as often as you'd like to invest or setup a c
 ### Contributing
 
 Feel free to open up an issue or PR if you've any remarks.
+
+
+Inspired by [bitcoin-trading-dca](https://github.com/0x13a/bitcoin-trading-dca). 
