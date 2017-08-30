@@ -41,7 +41,7 @@ FIAT=EUR
 This snippet clones the repo, `cd` in it, installs and installs all required dependencies and renames the `.env.sample` so you can set it up according to your needs.  
 
 ```sh
-git clone github.com/elsesiy/crypto-trader.git && cd crypto-trader && npm i && mv .env.example .env
+git clone github.com/elsesiy/crypto-trader.git && cd crypto-trader && npm i && mv .env.sample .env
 ```
 
 **Scheduling**
